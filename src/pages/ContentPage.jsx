@@ -6,7 +6,7 @@ function ContentPage()
     return(
         <div>
             <h1>This is the content page</h1>
-            <Link to="/">Go to Home</Link>        
+            <Link to="/test">Go to Home</Link>        
         </div>
     )
 }
